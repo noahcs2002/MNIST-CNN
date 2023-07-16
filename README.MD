@@ -7,9 +7,9 @@ Tutorial provided by Eva-Rae "Rae is Online" McLean.
 First, get [the MNIST data csv files](https://pjreddie.com/projects/mnist-in-csv/). If you place them in a folder named "data" at the root of the repository, then the program will work 
 just fine. Otherwise, you may need to change some code to reflect the location of the training and testing data.
 
-To use effectively, simply load the project into an IDE/IDEA and run it. 
+To use effectively, simply load the project into an IDE/IDEA and run it, or compile using the CLI compiler included with JVMs. 
 
-Alternatively, you can pass a randomisation seed into the command line arguments to influence the randomisation seed used.
+Optionally, you can pass a randomisation seed into the command line arguments to influence the randomisation seed used when shuffling data. If no seed is provided, the seed is randomised each time.
 
 > DISCLAIMER: My codebase is free to use. 
 > However, when using it, credits must be given to both Noah Sternberg and Eva-Rae "Rae is Online" McLean. 
