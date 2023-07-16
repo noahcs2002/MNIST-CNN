@@ -5,7 +5,7 @@ Tutorial provided by Eva-Rae "Rae is Online" McLean.
 
 ## Use
 First, get [the MNIST data csv files](https://pjreddie.com/projects/mnist-in-csv/). If you place them in a folder named "data" at the root of the repository, then the program will work 
-just fine. Otherwise, you may need to change soem code to reflect the location of the training and testing data.
+just fine. Otherwise, you may need to change some code to reflect the location of the training and testing data.
 
 To use effectively, simply load the project into an IDE/IDEA and run it. 
 
