@@ -1,7 +1,7 @@
 # Convolutional Neural Network on MNIST Data
 
 Simple Java implementation of a Convolutional Neural Network to parse MNIST data. 
-Tutorial provided by Eva Rae McLean.
+Tutorial provided by Eva-Rae "Rae is Online" McLean.
 
 ## Use
 To use effectively, simply load the project into an IDE/IDEA and run it. 
